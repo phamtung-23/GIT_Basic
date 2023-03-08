@@ -1,0 +1,4 @@
+ạo Repository “GIT Basic” ->  tạo 1 folder với file test.txt với nội dung tùy ý -> add remote vừa tạo vào thư mục mới tạo -> push file test lên branch master
+Tạo branch task-1 và di chuyển sang branch task-1 -> tạo file demo.txt với nội dung “What is Lorem Ipsum?” và push lên branch task-1
+Di chuyển về về branch master sau đó tạo và checkout sang branch task-2 -> trên branch task-2 tạo file demo.txt với nội dung “Where does it come from?” và file demo-2.txt với nội dung “Lorem Ipsum”
+Di chuyển về branch master và thực hiện merge 2 branch task-1 và task-2 vào nhánh master
